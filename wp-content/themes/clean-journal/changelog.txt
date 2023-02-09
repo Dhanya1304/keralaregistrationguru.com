@@ -1,0 +1,66 @@
+== Change log ==
+
+= 2.2 =
+* Updated: HTML Shiv script loading
+* Updated: Upgrade Button in customizer with respect to trt decision
+* Updated: Custom CSS to Additional CSS( Core Support ) for WP version 4.7
+* Code Optimization
+
+= 2.1 =
+* Added: Lithuanian translation lt_LT.po and lt_LT.mo
+* Updated: Reset all settings compatibility with WordPress v4.6
+* Updated: Used the_archive_title() and the_archive_description() in archive.php
+
+= 2.0 =
+* Added Swedish translation sv_SE.po and sv_SE.mo
+* Added Brazilian Portuguese translation pt_BR.po and pt_BR.mo
+* Bug Fixed: `sprintf() too few arguments` issue on other languages
+
+= 1.2.1 =
+* Bug Fixed: White space issue
+* Updated: All catchthemes.com link to ssl
+
+= 1.2 =
+* Added: German translation de_DE.po and de_DE.mo
+* Updated: Sidr menu script to version 2.1.1.1
+* Updated: Meta viewport for better responsive support
+* Updated: Content Width Implementation
+* Updated: Theme Layout retrieval via function
+* Updated: Favicon and Web Clip Migration to Site Icon( Core Support )
+* Updated: Logo to Custom Logo( Core Support ) for WP version 4.5
+
+= 1.1 =
+* Added: Danish translation da_DK.po and da_DK.mo
+* Added: Disable scrollup option
+* Bug Fixed: Script handles
+* Bug Fixed: Genericons issue with To Top plugin
+
+= 1.0.1 =
+* Bug Fixed: Header Top message now only shown to logged in users with ability to edit theme options
+* Bug Fixed: Header Top mobile menu anchor issue in toggle
+* Bug Fixed: Header layout issue in iPhone4 landscape view
+
+= 1.0 =
+* Added: Social Icons for Phone, Handset, Cart, Cloud, Link( Custom Link )
+* Bug Fixed: Breadcrumb css issue in IE 11
+* Bug Fixed: Featured Slider Transition Effect Not Updating
+* Bug Fixed: Text Domain in style.css
+* Bug Fixed: Custom Social Icon Link not saving due to sanitization issues
+* Bug Fixed: No sidebar ( Content Width ) layout issue in mobile devices ( Reported by LiminalLLC )
+* Enhanced: Used antispambot() function on emails output on social icons
+* Updated Genericons to 3.4.1
+* Updated Jetpack Scroll Pagination Option to enable infinite scroll in Reading Settings
+
+= 0.4 =
+* Updated screenshot
+* relaced journal-customizer-custom-scripts.min.js with clean-journal-customizer-custom-scripts.min.js
+
+= 0.3 =
+* Updated screenshot
+* Initial Release in Catchthemes.com
+
+= 0.2 =
+* Submitted to WordPress.org
+
+= 0.1 =
+* Theme Completed
